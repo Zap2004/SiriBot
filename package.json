@@ -1,0 +1,16 @@
+{
+  "name": "siri",
+  "main": "index.js",
+  "author": "Zap",
+  "version": "5.0.0",
+  "description": "Made by Zap",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
